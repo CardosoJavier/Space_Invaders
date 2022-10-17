@@ -1,0 +1,1 @@
+self.screen.blit(self.bg_image,(0,0))
